@@ -20,9 +20,9 @@ const kMessageContainerDecoration = BoxDecoration(
 
 const kTextFieldDecoration = InputDecoration(
   hintText: '',
-  hintStyle: TextStyle(color: Colors.grey),
-  filled: true,
-  fillColor: Colors.white,
+  // hintStyle: TextStyle(color: Colors.grey),
+  // filled: true,
+  // fillColor: Colors.white,
   contentPadding: EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),
   border: OutlineInputBorder(
     borderRadius: BorderRadius.all(Radius.circular(32.0)),
