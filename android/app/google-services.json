@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945570726567",
+    "firebase_url": "https://flash-chat-5be49.firebaseio.com",
+    "project_id": "flash-chat-5be49",
+    "storage_bucket": "flash-chat-5be49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945570726567:android:e272bc8d0bab4ff4215182",
+        "android_client_info": {
+          "package_name": "co.suesalito.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945570726567-do5tqml0fs2kqaa56ql3lbtdt27tepch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbP5dHrxXQ8hr2Wz_s-HkN8pMMFs_tF6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945570726567-do5tqml0fs2kqaa56ql3lbtdt27tepch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
