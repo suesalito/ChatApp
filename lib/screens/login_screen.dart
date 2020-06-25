@@ -57,7 +57,7 @@ class _LoginScreenState extends State<LoginScreen> {
               ),
               TextField(
                 onChanged: (value) {
-                  //Do something with the user input.
+                  //Listening what is the value
                   logInPassword = value;
                 },
                 style: kTextInputStyle,
